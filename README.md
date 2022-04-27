@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Moubarakdev
 - 👀 I’m interested in web developpement 
-- 🌱 I’m currently learn PHP/LARAVEL and Node js  
+- 🌱 I’m currently learn Python and JavaScript 
 - 📫 How to reach me Moubarakkerim@gmail.com
