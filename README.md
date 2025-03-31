@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Moubarakdev
-- 👀 I’m interested in web developpement 
+- 👀 I’m interested in software developpement 
 - 🌱 I’m currently learn Python and JavaScript 
 - 📫 How to reach me Moubarakkerim@gmail.com
